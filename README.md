@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williiam&label=Profile%20views&color=0e75b6&style=flat" alt="williiam" /> </p>
 
-- 🔭 I’m currently working on [projext](https://github.com/NCCUProjexts)
+- 🔭 I’m currently working on [projext(cool projects made by NCCU GDSC)](https://github.com/NCCUProjexts)
 
 - 🌱 I’m currently learning **typescript / ML**
 
