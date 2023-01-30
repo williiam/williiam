@@ -25,5 +25,3 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" width="40" height="40"/> </a> 
  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williiam&show_icons=true&locale=en&layout=compact" alt="williiam" /></p>
