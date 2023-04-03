@@ -3,15 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williiam&label=Profile%20views&color=0e75b6&style=flat" alt="williiam" /> </p>
 
-- 🔭 I’m currently working on [projext(cool projects made by NCCU GDSC)](https://github.com/NCCUProjexts)
-
-- 🌱 I’m currently learning **typescript / ML**
-
-- 📝 參與過的專案筆記 [https://hackmd.io/@wwwnnn](https://hackmd.io/@wwwnnn)
+- 📄 blog [https://uuwei.link](https://uuwei.link)
 
 - 📫 How to reach me **william1006wei@gmail.com**
 
-- 📄 Know about my experiences [https://www.cakeresume.com/jo-wiill](https://www.cakeresume.com/jo-wiill)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
