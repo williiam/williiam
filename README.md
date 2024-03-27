@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williiam&label=Profile%20views&color=0e75b6&style=flat" alt="williiam" /> </p>
 
 - 📄 blog [https://uuwei.link](https://uuwei.link)
-
+- 📄 life blog [[https://uuwei.link](https://www.threads.net/@william1006__)]([https://uuwei.link](https://www.threads.net/@william1006__))
 - 📫 How to reach me **william1006wei@gmail.com**
 
 
